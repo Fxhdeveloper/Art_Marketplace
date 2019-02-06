@@ -1,1 +1,1 @@
-A place for people to buy and sell art
+Veneer Marketplace for Art // CodeCademy
